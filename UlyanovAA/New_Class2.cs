@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace UlyanovAA
 {
-    internal class Program
+    internal class New_Class2
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
-//UlyanovAA Am-1-24
