@@ -40,5 +40,4 @@ namespace UlyanovAA
 }
 //UlyanovAA Am-1-24
 
-//solve task2
 
