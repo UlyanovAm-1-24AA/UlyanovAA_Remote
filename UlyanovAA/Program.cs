@@ -40,7 +40,6 @@ namespace UlyanovAA
 }
 //UlyanovAA Am-1-24
 
-
 //solve task1
 
 //solve task2
