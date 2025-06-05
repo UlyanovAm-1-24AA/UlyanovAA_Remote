@@ -27,7 +27,7 @@ namespace UlyanovAA
             foreach (var test in tests)
             {
                 double result = Sqr(test.input);
-                bool passed = Math.Abs(result - test.expected) < 1e-10; // Учитываем погрешность для дробных чисел
+                bool passed = Math.Abs(result - test.expected) < 1e-10; 
                 Console.WriteLine($"Вход: {test.input}, Ожидаем: {test.expected}, Вывод: {result}, {(passed ? "+" : "-")}");
             }
         }
@@ -41,4 +41,6 @@ namespace UlyanovAA
 //UlyanovAA Am-1-24
 
 //solve task3
+//solve task1
 
+//solve task2
